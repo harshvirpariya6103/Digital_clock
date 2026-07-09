@@ -16,9 +16,7 @@ A customizable, real-time Digital Clock application built using Python and Tkint
 - **GUI Library:** Tkinter
 - **Standard Modules:** `time`
 
-## 📸 Screenshots
 
-_(Add a few screenshots of your clock here, showcasing different themes like the Cyberpunk or Dracula themes!)_
 
 ## 💻 How to Run the Project
 
